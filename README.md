@@ -41,7 +41,7 @@ Misalnya Anda ingin menambahkan kontak baru dengan informasi berikut:
 
 - Nama: **John Doe**
 - Nomor Telepon: **08123456789**
-- Kategori: Keluarga
+- Kategori: **Keluarga**
 
 1. Buka aplikasi dan pilih opsi **Tambah Kontak**.
 2. Masukkan informasi kontak pada kolom yang tersedia.
