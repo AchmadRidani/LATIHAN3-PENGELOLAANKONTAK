@@ -39,9 +39,9 @@ Aplikasi ini adalah program berbasis Java yang digunakan untuk mengelola data ko
 
 Misalnya Anda ingin menambahkan kontak baru dengan informasi berikut:
 
-- Nama: **John Doe**
-- Nomor Telepon: **08123456789**
-- Kategori: **Keluarga**
+- Nama: **asjai**
+- Nomor Telepon: **081291297312
+- Kategori: **Teman**
 
 1. Buka aplikasi dan pilih opsi **Tambah Kontak**.
 2. Masukkan informasi kontak pada kolom yang tersedia.
